@@ -1,0 +1,10 @@
+{
+  "beanlist":[
+    {
+      "id":"test",
+      "name":"test",
+      "clazz":"java.lang.String",
+      "value":"xixixi"
+    }
+  ]
+}
